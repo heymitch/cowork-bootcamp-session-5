@@ -1,0 +1,8 @@
+{
+  "name": "digital-product",
+  "version": "2.0.0",
+  "description": "Build a digital product from idea to live sale — find ideas, validate demand, outline with frameworks, write the product, design it, and launch with multi-platform promotion.",
+  "author": { "name": "Speakeasy" },
+  "license": "UNLICENSED",
+  "keywords": ["cowork", "bootcamp", "session-5"]
+}
