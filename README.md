@@ -8,7 +8,7 @@ Upload the ZIP via **Plugins > Upload Plugin** in Claude Cowork.
 
 ## What You Get
 
-Install this plugin and 7 new capabilities appear in your `/` menu:
+Install this plugin and 8 new capabilities appear in your `/` menu:
 
 | Skill | Say This | What Happens |
 |-------|----------|-------------|
@@ -19,8 +19,9 @@ Install this plugin and 7 new capabilities appear in your `/` menu:
 | **Content Writer** | "Write the ebook" | Expands your outline into a complete product using the 10 Proven Sections template. Confirms scope first (mini guide, standard, or premium) then writes section by section. |
 | **Design Advisor** | "Design my product cover" | Recommends design direction matched to your budget — DIY with Canva, Fiverr freelancer with ready-to-send outreach, or professional designer. Generates a design brief either way. |
 | **Launch Kit** | "Launch my product" | Generates pricing recommendation, sales page copy, platform setup steps (Gumroad/Stripe/Lemon Squeezy), 3 launch day posts, 3 evergreen promotion templates, and a personalized launch checklist. |
+| **Vercel Landing Page** | "Build me a landing page" | Builds a full landing page from a description or product brief — hero, problem, solution, features, pricing, CTA — and deploys it live to Vercel. Page is live in under a minute. |
 
-The **router** runs invisibly in the background — say "build a digital product" and it chains all 7 skills in sequence from idea to launch.
+The **router** runs invisibly in the background — say "build a digital product" and it chains the product skills in sequence from idea to launch. The **frontend-design** skill runs behind the scenes when building landing pages, enforcing high design quality.
 
 ## Suggested Order (First Time)
 
